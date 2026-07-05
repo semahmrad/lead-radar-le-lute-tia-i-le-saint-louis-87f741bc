@@ -12,7 +12,7 @@ Static website generated for **Le Lutétia Île Saint-Louis**.
 
 ## Generation metadata
 
-- Template: Premium Landing
+- Template: Minimal Modern
 - AI model used: Gemini Flash
 - Public site URL: https://semahmrad.github.io/lead-radar-le-lute-tia-i-le-saint-louis-87f741bc/
 

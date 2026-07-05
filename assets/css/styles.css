@@ -1,6 +1,6 @@
 :root {
-  color-scheme: dark;
-  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  color-scheme: light;
+  font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
   background: var(--color-bg);
   color: var(--color-text);
 }
@@ -21,7 +21,7 @@ body {
     radial-gradient(circle at top right, var(--glow-color), transparent 28%),
     var(--color-bg);
   color: var(--color-text);
-  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
 }
 
 body::before {
@@ -139,7 +139,7 @@ a {
 
 .welcome-splash__content h2 {
   margin: 0;
-  font: 800 clamp(2.2rem, 1.3rem + 2.5vw, 4.2rem)/0.95 'Fraunces', 'Georgia', serif;
+  font: 800 clamp(2.2rem, 1.3rem + 2.5vw, 4.2rem)/0.95 'Playfair Display', 'Segoe UI', sans-serif;
   color: var(--color-text);
 }
 
@@ -215,7 +215,7 @@ body[data-splash='closed'] .welcome-splash {
 }
 
 .brand__text strong {
-  font: 800 1rem/1.2 'Fraunces', 'Georgia', serif;
+  font: 800 1rem/1.2 'Playfair Display', 'Segoe UI', sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -431,7 +431,7 @@ h2,
 h3,
 summary {
   margin: 0;
-  font-family: 'Fraunces', 'Georgia', serif;
+  font-family: 'Playfair Display', 'Segoe UI', sans-serif;
   line-height: 1;
 }
 
@@ -667,7 +667,7 @@ p {
 }
 
 .review-panel__score strong {
-  font: 800 2.3rem/1 'Fraunces', 'Georgia', serif;
+  font: 800 2.3rem/1 'Playfair Display', 'Segoe UI', sans-serif;
   color: var(--color-text);
 }
 
@@ -887,7 +887,7 @@ p {
 .site-footer strong {
   display: block;
   margin-bottom: 6px;
-  font: 800 1rem/1.2 'Fraunces', 'Georgia', serif;
+  font: 800 1rem/1.2 'Playfair Display', 'Segoe UI', sans-serif;
 }
 
 .lightbox {
