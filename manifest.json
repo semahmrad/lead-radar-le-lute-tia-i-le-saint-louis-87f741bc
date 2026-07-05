@@ -1,0 +1,17 @@
+{
+  "name": "Le Lutétia Île Saint-Louis",
+  "short_name": "Le Lutétia Île Sai",
+  "description": "Le Lutétia Île Saint-Louis - Restaurant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0717",
+  "theme_color": "#d560ff",
+  "icons": [
+    {
+      "src": "assets/icons/logo-mark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

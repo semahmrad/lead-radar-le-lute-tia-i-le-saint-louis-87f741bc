@@ -1,0 +1,463 @@
+{
+  "defaultLanguage": "fr",
+  "languages": [
+    "fr",
+    "en",
+    "ar"
+  ],
+  "seo": {
+    "title": "Le Lutétia Île Saint-Louis | Restaurant Paris 4",
+    "description": "Découvrez le restaurant Le Lutétia sur l'Île Saint-Louis au 33 Quai de Bourbon, 75004 Paris. Cuisine soignée, service sur place, vente à emporter et repas de groupe.",
+    "keywords": [
+      "Restaurant Île Saint-Louis",
+      "Le Lutétia Paris 4",
+      "Restaurant Quai de Bourbon"
+    ]
+  },
+  "content": {
+    "fr": {
+      "metaTitle": "Le Lutétia Île Saint-Louis | Restaurant Paris 4",
+      "metaDescription": "Découvrez le restaurant Le Lutétia sur l'Île Saint-Louis au 33 Quai de Bourbon, 75004 Paris. Cuisine soignée, service sur place, vente à emporter et repas de groupe.",
+      "nav": {
+        "about": "A propos",
+        "services": "Services",
+        "gallery": "Galerie",
+        "reviews": "Avis",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Restaurant Traditionnel à Paris 4",
+        "title": "Le Lutétia Île Saint-Louis",
+        "subtitle": "Une expérience culinaire authentique au cœur de Paris",
+        "description": "Situé au 33 Quai de Bourbon, notre restaurant vous accueille sur l'Île Saint-Louis pour vous faire découvrir une cuisine soignée dans un cadre historique et chaleureux.",
+        "primaryCta": "Contacter sur WhatsApp",
+        "secondaryCta": "Voir les services"
+      },
+      "about": {
+        "eyebrow": "A propos",
+        "title": "À propos de nous",
+        "body": "Le Lutétia Île Saint-Louis accompagne sa clientèle au 33 Quai de Bourbon avec une approche sérieuse, une présentation soignée de ses plats et une prise de contact simple. Notre équipe met tout en œuvre pour vous offrir un moment agréable, que ce soit pour un repas rapide ou un événement marquant."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Nos Services",
+        "intro": "Découvrez les prestations adaptées à vos envies et à vos besoins professionnels ou personnels.",
+        "items": [
+          {
+            "title": "Service sur place",
+            "description": "Profitez d'un accueil chaleureux et d'une table dressée avec soin dans notre salle sur l'Île Saint-Louis."
+          },
+          {
+            "title": "Vente à emporter",
+            "description": "Emportez la qualité de notre cuisine chez vous ou au bureau grâce à notre service de commande rapide."
+          },
+          {
+            "title": "Réservations locales",
+            "description": "Réservez votre table en toute simplicité pour garantir votre place au cœur du 4ème arrondissement."
+          },
+          {
+            "title": "Commandes pour groupes",
+            "description": "Des formules adaptées pour vos repas de groupe, événements familiaux ou réunions professionnelles."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Points forts",
+        "title": "Nos Points Forts",
+        "items": [
+          {
+            "title": "Emplacement Unique",
+            "description": "Une adresse prestigieuse au 33 Quai de Bourbon, facilement accessible au centre de Paris."
+          },
+          {
+            "title": "Contact Direct & Rapide",
+            "description": "Une ligne téléphonique dédiée et un lien WhatsApp direct pour répondre instantanément à vos demandes."
+          },
+          {
+            "title": "Accueil Personnalisé",
+            "description": "Une équipe à l'écoute pour faire de chaque repas un moment unique et mémorable."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Galerie",
+        "title": "Galerie Photos",
+        "intro": "Un aperçu en images de l'atmosphère unique de notre établissement et de nos créations.",
+        "captions": [
+          "Notre salle de restaurant chaleureuse",
+          "Plats signatures préparés sur place",
+          "L'élégance de la table au Quai de Bourbon",
+          "Ambiance unique de l'Île Saint-Louis"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Avis Clients",
+        "summary": "Découvrez les retours d'expérience de nos clients sur la qualité de notre accueil et de notre cuisine."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Contactez-nous",
+        "intro": "Une question ou une demande spécifique ? Notre équipe est à votre entière disposition."
+      },
+      "form": {
+        "title": "Formulaire de Contact",
+        "intro": "Envoyez-nous un message et nous vous répondrons dans les plus brefs délais."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Foire Aux Questions",
+        "items": [
+          {
+            "question": "Où se trouve le restaurant Le Lutétia ?",
+            "answer": "Notre établissement est idéalement situé au 33 Quai de Bourbon, 75004 Paris, sur la prestigieuse Île Saint-Louis."
+          },
+          {
+            "question": "Comment puis-je réserver une table ?",
+            "answer": "Vous pouvez nous contacter directement par téléphone au +33 1 40 51 80 30 ou via notre lien WhatsApp."
+          },
+          {
+            "question": "Proposez-vous des repas pour les groupes ?",
+            "answer": "Oui, nous gérons les commandes pour groupes avec des menus adaptés à vos événements."
+          },
+          {
+            "question": "Est-il possible de commander des plats à emporter ?",
+            "answer": "Tout à fait, nous proposons un service de vente à emporter pour déguster nos spécialités où vous le souhaitez."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "Le Lutétia Île Saint-Louis - L'art de la table au cœur de Paris."
+      },
+      "ui": {
+        "navAbout": "A propos",
+        "navServices": "Services",
+        "navGallery": "Galerie",
+        "navReviews": "Avis",
+        "navContact": "Contact",
+        "languageLabel": "Langue",
+        "addressLabel": "Adresse",
+        "phoneLabel": "Telephone",
+        "emailLabel": "Email",
+        "hoursLabel": "Horaires",
+        "ratingLabel": "Note",
+        "openMap": "Ouvrir la carte",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Nom",
+        "formPhoneLabel": "Telephone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Envoyer sur WhatsApp",
+        "formNamePlaceholder": "Votre nom",
+        "formPhonePlaceholder": "Votre numero",
+        "formMessagePlaceholder": "Bonjour, je souhaite obtenir plus d informations sur vos services.",
+        "noHours": "Horaires communiques sur demande",
+        "galleryBadge": "Photos",
+        "featureBadge": "Atouts",
+        "reviewBadge": "Confiance",
+        "contactBadge": "Disponible",
+        "faqBadge": "Questions",
+        "viewOnMaps": "Voir sur Google Maps",
+        "viewReviews": "Voir les avis Google",
+        "writeReview": "Laisser un avis",
+        "callNow": "Appeler maintenant",
+        "sendOnWhatsapp": "Demarrer sur WhatsApp"
+      }
+    },
+    "en": {
+      "metaTitle": "Le Lutétia Île Saint-Louis | Restaurant Paris 4",
+      "metaDescription": "Découvrez le restaurant Le Lutétia sur l'Île Saint-Louis au 33 Quai de Bourbon, 75004 Paris. Cuisine soignée, service sur place, vente à emporter et repas de groupe.",
+      "nav": {
+        "about": "About",
+        "services": "Services",
+        "gallery": "Gallery",
+        "reviews": "Reviews",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Traditional Restaurant in Paris 4th",
+        "title": "Le Lutétia Île Saint-Louis",
+        "subtitle": "An authentic culinary experience in the heart of Paris",
+        "description": "Located at 33 Quai de Bourbon on the historic Île Saint-Louis, our restaurant welcomes you to enjoy a refined cuisine in a warm and historic setting.",
+        "primaryCta": "Contact on WhatsApp",
+        "secondaryCta": "View services"
+      },
+      "about": {
+        "eyebrow": "About",
+        "title": "About Us",
+        "body": "Le Lutétia Île Saint-Louis serves its guests at 33 Quai de Bourbon with a professional approach, beautifully presented dishes, and easy booking options. Our team is dedicated to providing an exceptional dining experience, whether for a quick lunch or a special gathering."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Our Services",
+        "intro": "Explore our dining options tailored to your professional or personal needs.",
+        "items": [
+          {
+            "title": "Dine-in Service",
+            "description": "Enjoy a warm welcome and a beautifully set table in our dining room on Île Saint-Louis."
+          },
+          {
+            "title": "Takeaway Service",
+            "description": "Bring the quality of our cuisine to your home or office with our efficient takeaway option."
+          },
+          {
+            "title": "Local Reservations",
+            "description": "Book your table easily to secure your spot in the heart of the 4th arrondissement."
+          },
+          {
+            "title": "Group Bookings",
+            "description": "Tailored menus and setups for your group dinners, family events, or business meetings."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Highlights",
+        "title": "Our Key Strengths",
+        "items": [
+          {
+            "title": "Prime Location",
+            "description": "A prestigious address at 33 Quai de Bourbon, easily accessible in central Paris."
+          },
+          {
+            "title": "Direct Contact",
+            "description": "A dedicated phone line and direct WhatsApp link for instant answers to your inquiries."
+          },
+          {
+            "title": "Personalized Service",
+            "description": "A staff committed to making every meal a unique and memorable occasion."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Gallery",
+        "title": "Photo Gallery",
+        "intro": "A visual glimpse into the unique atmosphere of our venue and our culinary creations.",
+        "captions": [
+          "Our warm and welcoming dining room",
+          "Signature dishes crafted on-site",
+          "Elegant table settings at Quai de Bourbon",
+          "The unique charm of Île Saint-Louis"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Customer Reviews",
+        "summary": "Read feedback from our guests regarding the quality of our service and cuisine."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Contact Us",
+        "intro": "Have a question or a specific request? Our team is completely at your service."
+      },
+      "form": {
+        "title": "Contact Form",
+        "intro": "Send us a message and we will get back to you as soon as possible."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Where is the restaurant located?",
+            "answer": "Our establishment is ideally located at 33 Quai de Bourbon, 75004 Paris, on the prestigious Île Saint-Louis."
+          },
+          {
+            "question": "How can I book a table quickly?",
+            "answer": "You can reach us directly by phone at +33 1 40 51 80 30 or through our WhatsApp link."
+          },
+          {
+            "question": "Do you accommodate group events?",
+            "answer": "Yes, we cater to group orders with menus customized for your specific events."
+          },
+          {
+            "question": "Is takeaway available?",
+            "answer": "Absolutely, we offer a convenient takeaway service so you can enjoy our specialties anywhere."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "Le Lutétia Île Saint-Louis - Fine dining in the heart of Paris."
+      },
+      "ui": {
+        "navAbout": "About",
+        "navServices": "Services",
+        "navGallery": "Gallery",
+        "navReviews": "Reviews",
+        "navContact": "Contact",
+        "languageLabel": "Language",
+        "addressLabel": "Address",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "hoursLabel": "Hours",
+        "ratingLabel": "Rating",
+        "openMap": "Open map",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Name",
+        "formPhoneLabel": "Phone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Send on WhatsApp",
+        "formNamePlaceholder": "Your name",
+        "formPhonePlaceholder": "Your phone number",
+        "formMessagePlaceholder": "Hello, I would like more information about your services.",
+        "noHours": "Hours available on request",
+        "galleryBadge": "Photos",
+        "featureBadge": "Highlights",
+        "reviewBadge": "Trust",
+        "contactBadge": "Available",
+        "faqBadge": "FAQ",
+        "viewOnMaps": "View on Google Maps",
+        "viewReviews": "Read Google reviews",
+        "writeReview": "Leave a review",
+        "callNow": "Call now",
+        "sendOnWhatsapp": "Start on WhatsApp"
+      }
+    },
+    "ar": {
+      "metaTitle": "Le Lutétia Île Saint-Louis | Restaurant Paris 4",
+      "metaDescription": "Découvrez le restaurant Le Lutétia sur l'Île Saint-Louis au 33 Quai de Bourbon, 75004 Paris. Cuisine soignée, service sur place, vente à emporter et repas de groupe.",
+      "nav": {
+        "about": "من نحن",
+        "services": "الخدمات",
+        "gallery": "المعرض",
+        "reviews": "التقييم",
+        "contact": "تواصل"
+      },
+      "hero": {
+        "eyebrow": "مطعم تقليدي في الدائرة الرابعة بباريس",
+        "title": "Le Lutétia Île Saint-Louis",
+        "subtitle": "تجربة طهي أصيلة في قلب باريس",
+        "description": "يقع مطعمنا في 33 Quai de Bourbon بجزيرة سانت لويس، ويرحب بكم لاكتشاف مأكولات راقية في أجواء تاريخية دافئة.",
+        "primaryCta": "تواصل عبر واتساب",
+        "secondaryCta": "عرض الخدمات"
+      },
+      "about": {
+        "eyebrow": "من نحن",
+        "title": "من نحن",
+        "body": "يقدم مطعم Le Lutétia Île Saint-Louis خدماته لعملائه الكرام في 33 Quai de Bourbon بأسلوب مهني جاد، وتقديم متميز للأطباق، وتواصل سهل ومباشر. يبذل فريقنا قصارى جهده لضمان قضاء وقت ممتع، سواء لوجبة سريعة أو لمناسبة خاصة."
+      },
+      "services": {
+        "eyebrow": "الخدمات",
+        "title": "خدماتنا",
+        "intro": "اكتشف خيارات تناول الطعام المتنوعة والمصممة لتلبية تطلعاتكم الشخصية والمهنية.",
+        "items": [
+          {
+            "title": "خدمة صالة الطعام",
+            "description": "استمتع بترحيب حار وطاولة منسقة بعناية داخل صالتنا في جزيرة سانت لويس."
+          },
+          {
+            "title": "الوجبات الجاهزة",
+            "description": "احصل على جودة مأكولاتنا في منزلك أو مكتبك بفضل خدمة الطلبات الخارجية السريعة."
+          },
+          {
+            "title": "الحجوزات المحلية",
+            "description": "احجز طاولتك بكل سهولة لتضمن مكانك في قلب الدائرة الرابعة بباريس."
+          },
+          {
+            "title": "طلبات المجموعات",
+            "description": "قوائم طعام مخصصة ومناسبة للوجبات الجماعية، المناسبات العائلية، أو الاجتماعات المهنية."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "نقاط القوة",
+        "title": "أبرز مميزاتنا",
+        "items": [
+          {
+            "title": "موقع فريد",
+            "description": "عنوان مرموق في 33 Quai de Bourbon، يسهل الوصول إليه في وسط باريس."
+          },
+          {
+            "title": "اتصال مباشر وسريع",
+            "description": "خط هاتفي مخصص ورابط واتساب مباشر للاستجابة الفورية لجميع استفساراتكم."
+          },
+          {
+            "title": "استقبال مخصص",
+            "description": "فريق عمل حريص على جعل كل وجبة تجربة فريدة لا تُنسى."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "المعرض",
+        "title": "معرض الصور",
+        "intro": "لمحة بصرية عن الأجواء الفريدة لمطعمنا وأطباقنا المتميزة.",
+        "captions": [
+          "صالة المطعم الدافئة والمرحبة",
+          "أطباقنا الخاصة والمجهزة بكل إتقان",
+          "أناقة الضيافة في Quai de Bourbon",
+          "الأجواء الساحرة لجزيرة سانت لويس"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "السمعة",
+        "title": "آراء العملاء",
+        "summary": "اطلع على تقييمات ضيوفنا حول جودة الاستقبال والمأكولات التي نقدمها."
+      },
+      "contact": {
+        "eyebrow": "تواصل",
+        "title": "اتصل بنا",
+        "intro": "هل لديك أي استفسار أو طلب خاص؟ فريقنا في كامل الجاهزية لمساعدتك."
+      },
+      "form": {
+        "title": "نموذج الاتصال",
+        "intro": "أرسل لنا رسالة وسنقوم بالرد عليك في أقرب وقت ممكن."
+      },
+      "faq": {
+        "eyebrow": "الأسئلة الشائعة",
+        "title": "الأسئلة الشائعة",
+        "items": [
+          {
+            "question": "أين يقع المطعم بالتحديد؟",
+            "answer": "يقع مطعمنا في موقع مثالي في 33 Quai de Bourbon, 75004 Paris، بجزيرة سانت لويس العريقة."
+          },
+          {
+            "question": "كيف يمكنني حجز طاولة بسرعة؟",
+            "answer": "يمكنكم التواصل معنا مباشرة عبر الهاتف على الرقم 30 80 51 40 1 33+ أو من خلال رابط الواتساب."
+          },
+          {
+            "question": "هل تستقبلون المجموعات والمناسبات؟",
+            "answer": "نعم، نحن نوفر خدمات طلبات المجموعات مع قوائم طعام مخصصة تناسب فعالياتكم."
+          },
+          {
+            "question": "هل تتوفر لديكم خدمة الوجبات الجاهزة؟",
+            "answer": "بالتأكيد، نقدم خدمة بيع الوجبات الجاهزة لتستمتع بأطباقنا أينما كنت."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "Le Lutétia Île Saint-Louis - فن الضيافة والمذاق في قلب باريس."
+      },
+      "ui": {
+        "navAbout": "من نحن",
+        "navServices": "الخدمات",
+        "navGallery": "المعرض",
+        "navReviews": "التقييم",
+        "navContact": "تواصل",
+        "languageLabel": "اللغة",
+        "addressLabel": "العنوان",
+        "phoneLabel": "الهاتف",
+        "emailLabel": "البريد",
+        "hoursLabel": "الأوقات",
+        "ratingLabel": "التقييم",
+        "openMap": "فتح الخريطة",
+        "whatsAppLabel": "واتساب",
+        "formNameLabel": "الاسم",
+        "formPhoneLabel": "الهاتف",
+        "formMessageLabel": "الرسالة",
+        "formSubmitLabel": "إرسال عبر واتساب",
+        "formNamePlaceholder": "اسمك",
+        "formPhonePlaceholder": "رقم الهاتف",
+        "formMessagePlaceholder": "مرحباً، أريد معرفة المزيد عن خدماتكم.",
+        "noHours": "ساعات العمل متاحة عند الطلب",
+        "galleryBadge": "صور",
+        "featureBadge": "المزايا",
+        "reviewBadge": "ثقة",
+        "contactBadge": "متاح",
+        "faqBadge": "الأسئلة",
+        "viewOnMaps": "عرض على خرائط Google",
+        "viewReviews": "عرض تقييمات Google",
+        "writeReview": "إضافة تقييم",
+        "callNow": "اتصل الآن",
+        "sendOnWhatsapp": "ابدأ عبر واتساب"
+      }
+    }
+  }
+}

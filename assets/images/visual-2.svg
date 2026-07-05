@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Le Lutétia Île Saint-Louis Ambiance et accueil">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d560ff" />
+      <stop offset="100%" stop-color="#7a2ca8" />
+    </linearGradient>
+    <radialGradient id="glow2" cx="80%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#53f0ff" stop-opacity="0.48" />
+      <stop offset="100%" stop-color="#53f0ff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#171022" />
+  <rect x="52" y="52" width="1496" height="896" rx="64" fill="url(#bg2)" />
+  <rect x="112" y="112" width="1376" height="776" rx="52" fill="#241737" opacity="0.76" />
+  <circle cx="1240" cy="180" r="220" fill="url(#glow2)" />
+  <rect x="150" y="180" width="420" height="420" rx="42" fill="#171022" opacity="0.95" />
+  <rect x="650" y="180" width="790" height="88" rx="26" fill="#53f0ff" opacity="0.16" />
+  <rect x="650" y="312" width="560" height="30" rx="15" fill="#ffffff" opacity="0.92" />
+  <rect x="650" y="370" width="670" height="24" rx="12" fill="#ffffff" opacity="0.54" />
+  <rect x="650" y="420" width="520" height="24" rx="12" fill="#ffffff" opacity="0.42" />
+  <rect x="650" y="500" width="790" height="230" rx="38" fill="#171022" opacity="0.9" />
+  <text x="210" y="390" fill="#fbf7ff" font-family="Arial, sans-serif" font-size="172" font-weight="800">LL</text>
+  <text x="650" y="248" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="10">AMBIANCE ET ACCUEIL</text>
+  <text x="650" y="348" fill="#ffffff" font-family="Arial, sans-serif" font-size="92" font-weight="800">Le Lutétia Île Saint-Louis</text>
+  <text x="650" y="560" fill="#fbf7ff" font-family="Arial, sans-serif" font-size="46" font-weight="700">Restaurant</text>
+  <text x="650" y="636" fill="#fbf7ff" font-family="Arial, sans-serif" font-size="32">33 Quai de Bourbon, 75004</text>
+</svg>
